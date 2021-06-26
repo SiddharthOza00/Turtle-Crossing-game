@@ -8,6 +8,8 @@ Each time you successfully reach the finish line, the level increases hence the 
 But if you get hit by a car it's Game Over and you progess resets.
 You have to run the program again to play the game again.
 
+I have attached the Screenshots of the game in the ScreenShot folder.
+
 
 #Requirements to Run the code
 1)You need python 3.9 or above interpreter.
